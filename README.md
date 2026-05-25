@@ -103,9 +103,3 @@ java OnlineVotingSystem
 - IDE recommended: IntelliJ IDEA / NetBeans / Eclipse
 
 ---
-
-## 👨‍💻 Author
-
-**Amna Pervez**
-
----
