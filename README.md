@@ -1,4 +1,4 @@
-# 🗳️ online Voting System
+# 🗳️ Online Voting System
 
 A desktop-based **Online Voting System** developed using **Java Swing** and **Oracle Database** as an Object Oriented Programming project.  
 The system provides a user-friendly interface for voter registration, login, vote casting, and voter information management.
